@@ -1,2 +1,2 @@
 # jellyfin-mass-dl
-A python script that downloads every single song from a Jellyfin server
+A python script that downloads every single song from a Jellyfin server in a nice formatted folder tree as `/artist/album/song.mp3`, then also looks up lrclib API for lyrics.
